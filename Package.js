@@ -1,5 +1,5 @@
 {
-  "name": "aternos-247-bot",
+  "name": "Bob_thebuilder",
   "version": "1.0.0",
   "description": "A Mineflayer bot to keep Aternos servers online 24/7",
   "main": "index.js",
